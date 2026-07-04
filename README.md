@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jayant202003/JCodes/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Jayant202003/JCodes/tree/master/0206-reverse-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jayant202003/JCodes/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Jayant202003/JCodes/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->

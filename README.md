@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jayant202003/JCodes/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Jayant202003/JCodes/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Jayant202003/JCodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayant202003/JCodes/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jayant202003/JCodes/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jayant202003/JCodes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

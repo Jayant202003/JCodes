@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Jayant202003/JCodes/tree/master/0190-reverse-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 ## Tree
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Jayant202003/JCodes/tree/master/0901-online-stock-span) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Jayant202003/JCodes/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

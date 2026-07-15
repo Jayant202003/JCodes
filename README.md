@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Jayant202003/JCodes/tree/master/0190-reverse-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 ## Tree
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jayant202003/JCodes/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Jayant202003/JCodes/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |

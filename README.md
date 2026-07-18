@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Jayant202003/JCodes/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Jayant202003/JCodes/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jayant202003/JCodes/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jayant202003/JCodes/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jayant202003/JCodes/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Jayant202003/JCodes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jayant202003/JCodes/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

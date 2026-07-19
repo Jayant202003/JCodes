@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jayant202003/JCodes/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Jayant202003/JCodes/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jayant202003/JCodes/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayant202003/JCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -110,4 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

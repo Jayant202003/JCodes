@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jayant202003/JCodes/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Jayant202003/JCodes/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Jayant202003/JCodes/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Jayant202003/JCodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayant202003/JCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jayant202003/JCodes/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Jayant202003/JCodes/tree/master/0704-binary-search) |
 ## Sorting

@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Jayant202003/JCodes/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Jayant202003/JCodes/tree/master/0875-koko-eating-bananas) |
 ## Trie
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jayant202003/JCodes/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Jayant202003/JCodes/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Jayant202003/JCodes/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |

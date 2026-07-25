@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jayant202003/JCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jayant202003/JCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |

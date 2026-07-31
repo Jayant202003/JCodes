@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayant202003/JCodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jayant202003/JCodes/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Jayant202003/JCodes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayant202003/JCodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jayant202003/JCodes/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

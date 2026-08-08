@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Jayant202003/JCodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jayant202003/JCodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayant202003/JCodes/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Jayant202003/JCodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jayant202003/JCodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayant202003/JCodes/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jayant202003/JCodes/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jayant202003/JCodes/tree/master/0700-search-in-a-binary-search-tree) |
 ## Simulation
 |  |

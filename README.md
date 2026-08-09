@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Jayant202003/JCodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jayant202003/JCodes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayant202003/JCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jayant202003/JCodes/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
+| [0392-is-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |

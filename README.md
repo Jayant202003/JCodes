@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Jayant202003/JCodes/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jayant202003/JCodes/tree/master/0875-koko-eating-bananas) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayant202003/JCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 ## Binary Search
 |  |
 | ------- |

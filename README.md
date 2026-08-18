@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/Jayant202003/JCodes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Jayant202003/JCodes/tree/master/0492-construct-the-rectangle) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Jayant202003/JCodes/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Jayant202003/JCodes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jayant202003/JCodes/tree/master/0191-number-of-1-bits) |
@@ -219,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Jayant202003/JCodes/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

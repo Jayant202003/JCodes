@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jayant202003/JCodes/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Jayant202003/JCodes/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Jayant202003/JCodes/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jayant202003/JCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Jayant202003/JCodes/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jayant202003/JCodes/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Jayant202003/JCodes/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Jayant202003/JCodes/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/Jayant202003/JCodes/tree/master/0901-online-stock-span) |
 ## Design

@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jayant202003/JCodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayant202003/JCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
+| [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
 ## Backtracking
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Jayant202003/JCodes/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->

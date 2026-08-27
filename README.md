@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Jayant202003/JCodes/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Jayant202003/JCodes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
+| [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Jayant202003/JCodes/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayant202003/JCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jayant202003/JCodes/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->

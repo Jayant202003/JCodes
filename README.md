@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jayant202003/JCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jayant202003/JCodes/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jayant202003/JCodes/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jayant202003/JCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jayant202003/JCodes/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Jayant202003/JCodes/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Jayant202003/JCodes/tree/master/0394-decode-string) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/Jayant202003/JCodes/tree/master/0901-online-stock-span) |
 ## Design

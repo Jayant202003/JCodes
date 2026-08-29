@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Jayant202003/JCodes/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jayant202003/JCodes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Jayant202003/JCodes/tree/master/0498-diagonal-traverse) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Jayant202003/JCodes/tree/master/0498-diagonal-traverse) |
 ## Reservoir Sampling
 |  |
 | ------- |

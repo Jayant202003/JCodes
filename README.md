@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Jayant202003/JCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Jayant202003/JCodes/tree/master/0136-single-number) |
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Jayant202003/JCodes/tree/master/0498-diagonal-traverse) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jayant202003/JCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jayant202003/JCodes/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Jayant202003/JCodes/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jayant202003/JCodes/tree/master/0875-koko-eating-bananas) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jayant202003/JCodes/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

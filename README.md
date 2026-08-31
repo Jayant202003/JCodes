@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Jayant202003/JCodes/tree/master/0492-construct-the-rectangle) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayant202003/JCodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Jayant202003/JCodes/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jayant202003/JCodes/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Linked List
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Jayant202003/JCodes/tree/master/0498-diagonal-traverse) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
 ## Backtracking
 |  |
 | ------- |
@@ -258,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->

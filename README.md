@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Jayant202003/JCodes/tree/master/0096-unique-binary-search-trees) |
 | [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Jayant202003/JCodes/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Jayant202003/JCodes/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/Jayant202003/JCodes/tree/master/0492-construct-the-rectangle) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayant202003/JCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jayant202003/JCodes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Jayant202003/JCodes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jayant202003/JCodes/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Jayant202003/JCodes/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Jayant202003/JCodes/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Jayant202003/JCodes/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Jayant202003/JCodes/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jayant202003/JCodes/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/Jayant202003/JCodes/tree/master/0901-online-stock-span) |

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Jayant202003/JCodes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jayant202003/JCodes/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/Jayant202003/JCodes/tree/master/0491-non-decreasing-subsequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayant202003/JCodes/tree/master/0779-k-th-symbol-in-grammar) |
 ## Tree
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0491-non-decreasing-subsequences](https://github.com/Jayant202003/JCodes/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Jayant202003/JCodes/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jayant202003/JCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jayant202003/JCodes/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Jayant202003/JCodes/tree/master/0398-random-pick-index) |
+| [0491-non-decreasing-subsequences](https://github.com/Jayant202003/JCodes/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/Jayant202003/JCodes/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Jayant202003/JCodes/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Jayant202003/JCodes/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Jayant202003/JCodes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Jayant202003/JCodes/tree/master/0491-non-decreasing-subsequences) |
 ## Matrix
 |  |
 | ------- |

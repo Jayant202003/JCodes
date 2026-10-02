@@ -5,18 +5,19 @@ using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> seen; // value -> index
+        unordered_map<int, int> mp;
+ for (int i = 0; i < nums.size(); i++) {
 
-        for (int i = 0; i < nums.size(); i++) {
-            int complement = target - nums[i];
+            int needed = target - nums[i];
 
-            if (seen.find(complement) != seen.end()) {
-                return {seen[complement], i};
+            if (mp.find(needed) != mp.end()) {
+                return {mp[needed], i};
             }
 
-            seen[nums[i]] = i;
+            mp[nums[i]] = i;
         }
 
-        return {}; // no solution found (shouldn't happen per problem constraints)
+        return {};
+     
     }
 };

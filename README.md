@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayant202003/JCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0289-game-of-life](https://github.com/Jayant202003/JCodes/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Jayant202003/JCodes/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Jayant202003/JCodes/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayant202003/JCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0491-non-decreasing-subsequences](https://github.com/Jayant202003/JCodes/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/Jayant202003/JCodes/tree/master/0495-teemo-attacking) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jayant202003/JCodes/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/Jayant202003/JCodes/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Jayant202003/JCodes/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jayant202003/JCodes/tree/master/0592-fraction-addition-and-subtraction) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Jayant202003/JCodes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
